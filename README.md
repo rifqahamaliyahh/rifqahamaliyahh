@@ -5,6 +5,8 @@ A third-year university student who enjoys exploring IT. I thrive on challenges,
 - 📫 How to reach me: rifqahamaliyah23@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact:i like purple!
+
+<br>
   
 ### Github Statistic
 <p align="left">
