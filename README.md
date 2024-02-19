@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Rifqah.
-A third-year university student who enjoys exploring IT. I thrive on challenges, considering them as opportunities for personal and professional growth. <br>Currently, I'm learning at Dicoding Academy
+A third-year university student who enjoys exploring IT. I thrive on challenges, considering them as opportunities for personal and professional growth. Currently, I'm learning at Dicoding Academy
 
 - 🌱 I’m currently learning Frontend & Backend Development
 - 📫 How to reach me: rifqahamaliyah23@gmail.com
