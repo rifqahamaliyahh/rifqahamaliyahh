@@ -4,7 +4,7 @@ A third-year university student who enjoys exploring IT. I thrive on challenges,
 - 🌱 I’m currently learning Frontend & Backend Development
 - 📫 How to reach me: rifqahamaliyah23@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact:i like purple!
+- ⚡ Fun fact: i like purple!
 
 <br>
   
